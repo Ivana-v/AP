@@ -1,0 +1,34 @@
+Materia: Elementos de Ingeniería de Software.
+Docente: Castrillo Javier.
+
+
+Integrantes:
+* Turín Brenda.
+* Vallejos Ivana.
+
+
+
+
+➢ Propuesta inicial:
+
+
+“APP PARA SABER QUE COCINAR CON LOS INGREDIENTES DISPONIBLES.
+
+
+Problema: Puede suceder que las personas se encuentren con la situación de tener ingredientes en su hogar, pero no saber qué preparar con ellos. Esto puede llevar al desperdicio de alimentos y a la falta de variedad en las comidas diarias.
+
+
+Estrategia de resolución: Desarrollar una app que ayude a las personas a decidir qué cocinar a partir de los ingredientes disponibles en sus hogares. La aplicación permitirá a los usuarios ingresar los ingredientes que tienen a mano y proporcionará recetas que puedan prepararse con esos ingredientes a través de instrucciones sencillas paso a paso o les proporcionará un link con la receta para poder tener visualización de la misma.”
+
+
+➢ Consideraciones del profesor:
+
+
+Realizar la aplicación de manera que se dispongan 8 ingredientes y el usuario pueda elegir 2 o 3 de ellos, y sean redirigidos a 2 o 3 recetas
+
+
+➢ Propuesta final:
+
+
+Realizamos la aplicación de forma que el usuario tenga disponible 9 ingredientes para elegir y de los cuales pueda elegir 2 sin condicionantes del orden. Es decir, no importa si elige legumbres y verduras o verduras y legumbres, siempre deriva a una nueva pantalla. La aplicación no permite que elija más de dos ingredientes o dos veces el mismo, en esos casos borra las elecciones automáticamente dando lugar a una nueva oportunidad de elección. 
+Hay dos combinaciones de ingredientes (Carne y Harina /Huevos y Leche) que derivan a dos opciones de recetas. El resto redirige a una receta, o a una pantalla de “no se encontraron recetas”. Todas las pantallas permiten volver a la pantalla anterior.
