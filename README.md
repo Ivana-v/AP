@@ -3,7 +3,8 @@ AP es la abreviatura de "AL PLATO", una app para crear recetas saladas o dulces 
 
 ## Descripción
 
-Este proyecto esta creado en el contexto de la materia Ingenieria de software de la carrera de Informática aplicada a la salud de la universidad de Jose C.Paz. La aplicación ofrece una interfaz intuitiva para seleccionar los ingredientes y muestra diferentes combinaciones de recetas según las elecciones realizadas.
+Este proyecto esta creado en el contexto de la materia Ingenieria de software de la carrera de Informática aplicada a la salud de la universidad de Jose C.Paz. La aplicación ofrece una interfaz intuitiva para seleccionar los ingredientes que tengas disponibles y muestra diferentes combinaciones de recetas según las elecciones realizadas para que puedas elaborar un plato facil y rapido. 
+Actualmente la aplicación se encuentra en un estado inicial que cuenta con los funcionamientos básicos para poder funcionar y cumplir con su objetivo.
 
 ## Organización y seguimiento
 
